@@ -9,14 +9,14 @@ About
 -----
 This is a digital font based off of the *Engravers* typeface offered by the American Type Founders. These letters first appeared in Barnhart Brothers & Spindler Type Foundry which was later bought by ATF, where they were refined by prolific designer Morris Fuller Benton. This was a very popular typeface and many type foundries offered similar letters. Today we see many fonts of different names with essentially the same characteristics. 
 
-![styles](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/references/Styles.png)
+![styles](https://raw.githubusercontent.com/CowboyCollective/EngravingCC/master/sources/references/Styles.png)
 
 indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. *Engraving CC* is the third instalment in this series. This is by no means a definitive interpretation of these letters, but it is a tepid step towards exploring more ornamental engraving styles.
 
 Unfortunately, and questionably, Monotype owns the trademark to naming things “engraver’s” so the Cowboy Collective edition of this typeface is named Engraving. 
 
 
-![Characters](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/references/Specimin.png)
+![Characters](https://raw.githubusercontent.com/CowboyCollective/EngravingCC/master/sources/references/Specimin.png)
 
 Changelog
 ---------

@@ -1,30 +1,31 @@
-Tiffany Gothic CC
+Engraving CC
 ========
-![Picture](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/references/Title.png)
-Tiffany Gothic CC is a Tiffany Gothic revival designed by indestructible type* for the Cowboy Collective 
+![Picture](https://raw.githubusercontent.com/CowboyCollective/EngravingCC/master/sources/references/Title.png)
+Engraving CC is a Engraver's revival designed by indestructible type* for the Cowboy Collective 
 
-Tiffany Gothic CC is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io) and founding member of the [Cowboy Collective](cowboycollective.cc/).
+Engraving CC is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io) and founding member of the [Cowboy Collective](cowboycollective.cc/).
 
 About
 -----
-In 1901 American Type Founders started listing *Tiffany Gothic*, a font whos origins likely date back to the 1880s. By 1912 ATF had changed the name to *Typo Gothic*, and by the mid century, the letters stopped appearing altogether. This typeface has a lot in common with its more famous relative, *Copperplate Gothic*, yet *Tiffany* shares none of the fame nor glory. In fact, to my knowledge, until this point, there has yet to be a digital revival of *Tiffany Gothic*.
+This is a digital font based off of the *Engravers* typeface offered by the American Type Founders. These letters first appeared in Barnhart Brothers & Spindler Type Foundry which was later bought by ATF, where they were refined by prolific designer Morris Fuller Benton. This was a very popular typeface and many type foundries offered similar letters. Today we see many fonts of different names with essentially the same characteristics. 
 
-indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. *Tiffany Gothic* is the second instalment in this series. Hopefully this revival will bring new-found interest to this more obscure and forgotten typeface.
+![styles](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/references/Styles.png)
 
-Special thanks goes out to David M. MacMillan of [Circuitous Root](http://www.circuitousroot.com) for providing high quality reference files to make this revival possible. The digitization process for these letters came with a unique set of challenges, as many of the sharp pointed serifs and other design features do not translate easily to the digital medium. More thought and careful compromises had to be made to communicate the original design as clearly and distraction free as possible.
+indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. *Engraving CC* is the third instalment in this series. This is by no means a definitive interpretation of these letters, but it is a tepid step towards exploring more ornamental engraving styles.
 
-![Characters](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/references/Specimin.png)
+Unfortunately, and questionably, Monotype owns the trademark to naming things “engraver’s” so the Cowboy Collective edition of this typeface is named Engraving. 
+
+
+![Characters](https://raw.githubusercontent.com/CowboyCollective/CopperplateCC/master/sources/references/Specimin.png)
 
 Changelog
 ---------
-<b>1.000</b>
-Initial release<br>
-<b>1.001</b>
-Added alternative G and made minor tweaks
+<b>1.0</b>
+Initial release
 
 Building the Font.
 ---------------------------
-Tiffany Gothic CC is licensed under the [SIL open type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), meaning that it is free to use and modify. If you'd like to build this font yourself using the source code, follow the following instructions.
+Engraving CC is licensed under the [SIL open type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), meaning that it is free to use and modify. If you'd like to build this font yourself using the source code, follow the following instructions.
 
 1. Download the complete source code, either by cloning this repository or downloading the .zip file.
 
